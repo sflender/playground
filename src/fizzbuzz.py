@@ -12,4 +12,4 @@ def fizzbuzz_value(n: int) -> str:
 def fizzbuzz_sequence(n: int):
     """Yield fizzbuzz values from 1 to n inclusive."""
     for i in range(1, n + 1):
-        yield fizzbuzz_value(i)
+        print(fizzbuzz_value(i))
