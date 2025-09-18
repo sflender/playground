@@ -25,6 +25,7 @@ def test_fit_builds_distribution():
 
 
 def test_predict_prints_choice():
+    
     model = NextWordGenerator()
     text = 'hello world hello world hello you'
     model.fit(text)
