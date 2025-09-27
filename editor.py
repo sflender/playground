@@ -23,7 +23,7 @@ class Editor():
             if self.left:
                 self.left.pop()
 
-    def move_left(self, n: int):
+    def move_left(self, n: int) -> None:
         for _ in range(n):
             if self.left:
                 self.right.append(self.left.pop())
