@@ -1,9 +1,6 @@
 # Playground
 
-Simple examples and tests, written with help from Copilot
-
-## What's in it? 
-Explore the src directory and find out. 
+A collection of various small coding projects and ideas
 
 ## How to test it? 
 ```

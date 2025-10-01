@@ -1,3 +1,8 @@
+'''
+A simple inventory management system for a store.
+'''
+
+
 
 from collections import defaultdict
 
